@@ -54,7 +54,6 @@ This project compared a regularised linear model against a non-linear ensemble m
 |---|---:|---:|---:|---:|
 | Ridge Regression | 230,256 | 346,383 | 0.698 | ~21.4% |
 | XGBoost Regressor | 162,534 | 270,773 | 0.815 | ~15.1% |
-
 XGBoost substantially outperformed Ridge Regression, showing that Melbourne property prices are better captured through non-linear modelling rather than purely linear assumptions.
 
 ## Key Results
